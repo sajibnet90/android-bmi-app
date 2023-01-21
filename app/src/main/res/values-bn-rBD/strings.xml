@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI প্রকল্প</string>
+    <string name="calculate">গণনা</string>
+    <string name="bmi_calculator">BMI ক্যালকুলেটর</string>
+    <string name="weight_in_kg">কেজিতে ওজন</string>
+    <string name="height_in_cm">উচ্চতা_ইন_সেমি</string>
+</resources>
